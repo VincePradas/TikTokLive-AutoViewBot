@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "puppeteer": "^22.12.1",
+    "puppeteer-core": "^22.12.1",
+    "rembrandt": "^0.1.3"
+  }
+}
